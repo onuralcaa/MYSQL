@@ -1,0 +1,5 @@
+ALTER TABLE ogrenciler2 DROP COLUMN dogum_tarihi;
+ALTER TABLE ogrenciler2 DROP PRIMARY KEY;
+ALTER TABLE ogrenciler2 DROP INDEX ogr_no;
+ALTER TABLE kiralama2 DROP FOREIGN KEY fk_aracno2;
+ALTER TABLE ogrenciler2 ALTER sehir DROP DEFAULT;
