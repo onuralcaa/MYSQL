@@ -19,3 +19,6 @@ MySQL, ilişkisel veritabanı yönetim sistemlerinden (RDBMS) biridir ve açık 
 7. **Topluluk Desteği ve Dokümantasyon**: MySQL'in kapsamlı bir topluluk desteği ve çevrimiçi dokümantasyonu bulunmaktadır. Bu, yeni başlayanlar için kaynaklara erişimi kolaylaştırır ve sorunları çözmek için yardımcı olabilir.
 
 MySQL, birçok platformda kullanılan güçlü ve esnek bir veritabanı sistemidir. Hem küçük işletmeler hem de büyük kuruluşlar tarafından tercih edilir ve çeşitli uygulama türlerinde kullanılabilir.
+
+# Repository Hakkında
+Bu repository temel ve orta düzey SQL komutları içermektedir. Repoyu indirip değişiklikler, denemeler yaparak SQL bilginizi geliştirebilirsiniz. 05.06.2024
